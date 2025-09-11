@@ -17,3 +17,4 @@ int main () {
         cout << "It is NOT divisible";
     }
 }
+
